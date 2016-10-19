@@ -1,3 +1,3 @@
 # hello-world
 Hello World Github tutorial
-with some edits for test purposes
+with some changes for test purposes
